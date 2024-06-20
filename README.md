@@ -1,2 +1,2 @@
-# golang-101
-learn for Go language
+#_golang-101
+learn_for_Go_language
